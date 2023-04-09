@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Hotel A",
+    "image": "img/lion2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "city": "Казань"
+  },
+  {
+    "name": "Hotel B",
+    "image": "img/lion2.jpg",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "city": "Казань"
+  },
+  {
+    "name": "Hotel C",
+    "image": "img/lion2.jpg",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "city": "Казань"
+  },
+
+  {
+    "name": "Hotel A",
+    "image": "img/lion2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "city": "Казань"
+  },
+  {
+    "name": "Hotel B",
+    "image": "img/lion2.jpg",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "city": "Казань"
+  },
+  {
+    "name": "Hotel C",
+    "image": "img/lion2.jpg",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "city": "Казань"
+  },
+
+  {
+    "name": "Hotel A",
+    "image": "img/lion2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "city": "Москва"
+  },
+  {
+    "name": "Hotel B",
+    "image": "img/lion2.jpg",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "city": "Москва"
+  },
+  {
+    "name": "Hotel C",
+    "image": "img/lion2.jpg",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "city": "Москва"
+  },
+
+  {
+    "name": "Hotel A",
+    "image": "img/lion2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "city": "Москва"
+  },
+  {
+    "name": "Hotel B",
+    "image": "img/lion2.jpg",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "city": "Москва"
+  },
+  {
+    "name": "Hotel C",
+    "image": "img/lion2.jpg",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "city": "Москва"
+  },
+
+  {
+    "name": "Hotel A",
+    "image": "img/lion2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "name": "Hotel B",
+    "image": "img/lion2.jpg",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "name": "Hotel C",
+    "image": "img/lion2.jpg",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "city": "Санкт-Петербург"
+  }
+]
