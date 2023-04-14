@@ -4,7 +4,7 @@ const cityInput = document.getElementById('cityInput');
 
 let hotelsData;
 
-fetch('json/hotels.json')
+fetch('js/public/hotels.json')
   .then(response => response.json())
   .then(data => {
     hotelsData = data;

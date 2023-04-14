@@ -1,6 +1,6 @@
 let cityList = [];
 
-fetch('json/russianSities.json')
+fetch('http://localhost:63342/js/public/russianSities.json')
   .then(response => response.json())
   .then(name => {
     cityList = name;

@@ -435,8 +435,9 @@
 
 .read-more-button {
   cursor: pointer;
+  font-size: 24px;
   display: inline-block;
-  color: silver;
+  color: brown;
   text-decoration: underline;
 }
 
